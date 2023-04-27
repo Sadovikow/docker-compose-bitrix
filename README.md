@@ -8,6 +8,10 @@ A basic stack environment built using Docker Compose.
 - phpMyAdmin
 - Redis
 
+В корне проекта (папка /www/) содержит bitrixsetup.php
+Для более быстрой установки можно скачать архив нужной редакции с https://www.1c-bitrix.ru/download/cms.php и распаковать прямо в папке. 
+
+
 As of now, we have several different PHP versions. Use appropriate php version as needed:
 
 - 5.4.x
